@@ -1,9 +1,9 @@
 /******************************************************************************
-Problem 04
+Finals
 Programmed by: Jolly Novino
-Date Accomplished: 07/09/2022
+Date Accomplished: 07/12/2022
 
-//This program counts number of bombs or scan the area if safe.
+//This program has restaurant reservation features.
 
 *******************************************************************************/
 #include <iostream>
